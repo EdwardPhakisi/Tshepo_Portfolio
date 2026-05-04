@@ -53,15 +53,16 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:edwardphakisi1@gmail.com">edwardphakisi1@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>+27810089118</td>
+      <td>+27762195343</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Johannesburg, South Africa</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -69,11 +70,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://za.linkedin.com/in/tshepo-edward-phakisi">My LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
