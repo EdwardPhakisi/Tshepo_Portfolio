@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Welcome my name is Tshepo Edward Phakisi, welcome to my journey into the data analysis fields. This is meant to show my growth in this field. Currently i hold a Diploma in Information Technology from Vaal University of Technology
+Welcome my name is Tshepo Edward Phakisi, welcome to my journey into the data analysis fields. This is meant to show my growth in this field. Currently i hold a Diploma in Information Technology from Vaal University of Technology, a Higher Certficate in IT in Support Services from Rosebank College and a big data analytics certificate from ORT SA
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
